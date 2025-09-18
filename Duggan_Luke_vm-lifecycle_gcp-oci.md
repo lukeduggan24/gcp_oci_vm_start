@@ -1,0 +1,1 @@
+![Zoom VM Instances Explanation](video/hha504_oci_vm_video.mp4)
